@@ -3,7 +3,7 @@
 Plugin Name: Plerdy
 Plugin URI: https://www.plerdy.com
 Description: The easiest way to add the Plerdy tracking script to your WordPress site!
-Version: 1.4.4
+Version: 1.4.5
 Author: Plerdy
 Author URI: https://www.plerdy.com
 License: GPL

@@ -3,7 +3,7 @@ Contributors: Plerdy
 Tags: analytics, plerdy, heatmaps, SEO, popup form
 Requires at least: 1.0
 Tested up to: 6.6.1
-Stable Tag: 1.4.4
+Stable Tag: 1.4.5
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
